@@ -1,8 +1,3 @@
-/*
-	Client Class: Simulates a Client that sends information to Server and downloads a Report regularly
-	Written By: Eric Su(SXXERI002), Lynray Barends (BRNLYN013), Phaswana Malatjie(MLTPHA002)
-	Date: 5 April 2012
-*/
 import java.io.*;
 import java.net.*;
 import java.nio.channels.Channels;
